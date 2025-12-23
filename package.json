@@ -19,6 +19,6 @@
     "eslint-plugin-import": "^2.25.4",
     "lodash": "^4.17.21",
     "typescript": "3.8.2",
-    "zod": "^3.13.4"
+    "zod": "^3.25.76"
   }
 }
