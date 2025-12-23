@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/google-apps-script": "^1.0.45",
-    "@types/lodash": "^4.14.180",
+    "@types/lodash": "^4.17.21",
     "esbuild": "^0.14.27",
     "esbuild-gas-plugin": "^0.3.2",
     "eslint-config-airbnb-typescript": "^16.1.2",
