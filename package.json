@@ -18,7 +18,7 @@
     "eslint-config-airbnb-typescript": "^16.1.2",
     "eslint-plugin-import": "^2.25.4",
     "lodash": "^4.17.21",
-    "typescript": "3.8.2",
+    "typescript": "3.9.10",
     "zod": "^3.13.4"
   }
 }
